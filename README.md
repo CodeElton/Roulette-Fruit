@@ -4,7 +4,11 @@ Welcome to the **Fruit Emoji Slot Machine**! This project simulates a simple slo
 
 ## Requirements
 
-This project is developed in **Python 3.13.1** and has no external dependencies. The only library used is `random`, which is part of Python's standard library.
+This project is developed in **Python 3.13.1** and has no external dependencies. The libraries used are:
+
+- `random`: Part of Python's standard library, used for generating random outcomes.
+- `os`: Also part of Python's standard library, used for system-related functionalities like accessing `system` and `name`.
+
 
 ## Installation
 
