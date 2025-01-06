@@ -13,8 +13,8 @@ This project is developed in **Python 3.13.1** and has no external dependencies.
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/roulette_fruit.git
-cd roulette_fruit.py
+git clone https://github.com/CodeElton/Roulette-Fruit.git
+cd Roulette_Fruit
 python roulette_fruit.py
 ```
 
